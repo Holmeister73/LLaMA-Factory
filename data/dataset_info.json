@@ -413,5 +413,8 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "EMOLLMS_ei_oc_single": {
+     "hf_hub_url": "Holmeister/ei_oc_single_instruction"
   }
 }
